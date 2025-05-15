@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Robesz0021
-- 👀 I’m interested in FrontEnd and BackEnd development
-- 🌱 I’m currently learning Python
+### 👋 Hi, I’m Róbert Győző!
+
+- I'm a 20 years old fullstack developer. I work in .NET Framework in collaboration with Sharepoint.
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: Instagram, Twitter, LinkIn profile on my Github profile
 
 <!---
