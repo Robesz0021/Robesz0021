@@ -32,6 +32,14 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 ---
 
+### 💡Ongoing Projects:
+
+| Project Name | Languages & Frameworks | 
+| :--- | :--- | 
+| **Calculator** | C#, WPF | 
+
+---
+
 ### 📬 Let's Connect!
 
 I'm always open to discussing new opportunities, collaborating on innovative projects, or just chatting about technology.
