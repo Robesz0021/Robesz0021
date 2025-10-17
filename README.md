@@ -32,10 +32,6 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 ---
 
-### 💡 Recent Projects
-
----
-
 ### 📬 Let's Connect!
 
 I'm always open to discussing new opportunities, collaborating on innovative projects, or just chatting about technology.
