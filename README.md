@@ -44,6 +44,6 @@ I'm always open to discussing new opportunities, collaborating on innovative pro
 
 * **Email:** gyozorobert08@gmail.com
 
-* **LinkedIn:** https://www.linkedin.com/in/gyozorobert
+* **LinkedIn:** [in/gyozorobert](https://www.linkedin.com/in/gyozorobert)
 
 ---
