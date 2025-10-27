@@ -34,7 +34,7 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 | Project Name | Used Languages or Frameworks | 
 | :--- | :--- | 
-| **Calculator** | C#, WPF | 
+| **Portfolio Site** | HTML, CSS, JS | 
 
 ---
 
